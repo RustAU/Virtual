@@ -6,7 +6,7 @@ https://discord.gg/jdfCdd2R
 
 # Virtual Meetups
 
-## 2022 Jul 12 - 6PM AEST (GMT+10) - 8PM NZST 
+## 2022 Jul 19 - 6PM AEST (GMT+10) - 8PM NZST 
 
 Inaugural Rust Australia (Unofficial) Virtual Lightning Meetup
 
@@ -18,7 +18,7 @@ This will be either one hour or two depending on how much interest we will gathe
 
 ### Call for Papers
 
-Please submit Call for Papers proposals in submissions/2022-Jul-12
+Please submit Call for Papers proposals in submissions/2022-Jul-19
 
 Please make your submission in markdown format and name it as yournameornickname.md
 
