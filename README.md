@@ -8,13 +8,15 @@ https://discord.gg/jdfCdd2R
 
 ## 2022 Jul 19 - 6PM AEST (GMT+10) - 8PM NZST 
 
-Inaugural Rust Australia (Unofficial) Virtual Lightning Meetup
+Inaugural Rust Australia Virtual Lightning Meetup
 
-Please flag your RSVP by sending a PR into attendees/2022-Jul-19
+Please flag your virtual RSVP by sending a PR into attendees/2022-Jul-19
 
 Kiwi participation friendly 8PM NZST - anyone from anywhere is however welcome to participate as long as you can bear the timezone difference
 
 This will be either one hour or two depending on how much interest we will gather
+
+If you would like to RSVP physically in Sydney then send PR to https://github.com/RustAU/Sydney/attendees/2022-Jul-19
 
 ### Call for Papers
 
