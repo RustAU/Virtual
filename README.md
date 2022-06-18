@@ -1,18 +1,18 @@
 # Virtual
-Rust Australia Virtual Meetup
+Rust Australia Virtual Meetup and Kiwis welcome too and any other who can bear the timezone difference
 
 Join us in Discord
 https://discord.gg/jdfCdd2R
 
-# Conferences
+# Meetupds
 
 ## 2022 Jul 13 6PM AEST (GMT+10) - 8PM NZST 
 
-Inaugural Rust Australia Virtual Lightning Conference
+Inaugural Rust Australia (Unofficial) Virtual Lightning Meetup
 
 https://www.meetup.com/rust-australia/events/286651702/
 
-Kiwi participation friendly 8PM NZST
+Kiwi participation friendly 8PM NZST - anyone from anywhere is however welcome to participate as long as you can bear the timezone difference
 
 This will be either one hour or two depending on how much interest we will gather
 
