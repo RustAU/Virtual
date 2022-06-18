@@ -10,7 +10,7 @@ https://discord.gg/jdfCdd2R
 
 Inaugural Rust Australia (Unofficial) Virtual Lightning Meetup
 
-https://www.meetup.com/rust-australia/events/286651702/
+Please flag your RSVP by sending a PR into attendees/2022-Jul-19
 
 Kiwi participation friendly 8PM NZST - anyone from anywhere is however welcome to participate as long as you can bear the timezone difference
 
