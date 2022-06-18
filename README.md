@@ -16,17 +16,15 @@ Join us in [Discord](https://discord.gg/jdfCdd2R)
 
 Inaugural Rust Australia Virtual Lightning Meetup
 
-Please flag your virtual RSVP by sending a PR in this repo to attendees/2022-Jul-19
-
 Kiwi participation friendly 8PM NZST
 
 Anyone from anywhere is however welcome to participate as long as you can bear the timezone difference
 
-This will be either one hour or two depending on how much interest we will gather
-
 If you would like to RSVP physically in Sydney then send PR:
 
 https://github.com/RustAU/Sydney/attendees/2022-Jul-19
+
+RSVP is not required for the virtual meetup - stream link will be posted here and [Discord](https://discord.gg/jdfCdd2R)
 
 ### Call for Papers
 
