@@ -1,10 +1,10 @@
-# Virtual
+# Virtual Info
 Rust Australia Virtual Meetup and Kiwis welcome too and any other who can bear the timezone difference
 
 Join us in Discord
 https://discord.gg/jdfCdd2R
 
-# Meetupds
+# Virtual Meetups
 
 ## 2022 Jul 13 6PM AEST (GMT+10) - 8PM NZST 
 
