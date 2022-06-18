@@ -1,6 +1,6 @@
 # Virtual Info
 
-![Discord chat][discord-badge]][discord-url]
+[![Discord chat][discord-badge]][discord-url]
 
 Rust Australia Virtual Meetup and Kiwis welcome too and any other who can bear the timezone difference
 
