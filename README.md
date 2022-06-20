@@ -24,7 +24,7 @@ If you would like to RSVP physically in Sydney then send PR:
 
 https://github.com/RustAU/Sydney/attendees/2022-Jul-19
 
-RSVP is not required for the virtual meetup - stream link will be posted here and [Discord](https://discord.gg/jdfCdd2R)
+RSVP is not required for the virtual meetup - stream link will be posted here and [Discord](https://discord.gg/P358jCzb)
 
 ### Call for Papers
 
