@@ -8,7 +8,7 @@ This repository serves as virtual RSVP tracking and Call for Papers submissions
 
 [RustAU/Sydney](https://github.com/RustAU/Sydney) repository serves as RSVP in Sydney in person
 
-Join us in [Discord](https://discord.gg/P358jCzb)
+Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
 # Virtual Meetups
 
@@ -24,7 +24,7 @@ If you would like to RSVP physically in Sydney then send PR:
 
 https://github.com/RustAU/Sydney/attendees/2022-Jul-19
 
-RSVP is not required for the virtual meetup - stream link will be posted here and [Discord](https://discord.gg/P358jCzb)
+RSVP is not required for the virtual meetup - stream link will be posted here and [Discord](https://discord.gg/pW35BNSBeV)
 
 ### Call for Papers
 
@@ -41,4 +41,4 @@ We will then allocate the timeslot when selected.
 Please ensure that you can be available so timeslots will not go waste
 
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
-[discord-url]: https://discord.gg/P358jCzb
+[discord-url]: https://discord.gg/pW35BNSBeV
