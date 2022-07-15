@@ -24,10 +24,10 @@ RSVP is not required for the virtual meetup - stream link will be posted here an
 | :---              | :---                            | :---   |
 | @ecton            | BonsaiDb                        | x      |
 | @Radu Matei       | Building a microservices platform with Rust, WebAssembly, and the component model | 10 |
-| @flaki            | Suborbital                               | x  |
 | @Teymor Alridge   | puck                                     | 7  |
 | @saethlin         | Searching for and fixing UB across all of crates.io | x |
-| @trent            | Taking an API from 0 to prod             | x  |
+| @Trent            | Taking an API from 0 to prod             | x  |
+| @flaki            | WebAssembly Extensibility and why you'd use Rust to run JS in Wasm? | 10 |
 | @wh33zle          | Elegant actor systems with xtra          | 10 |
 | @Tricster         | Running Tokyo async applications in Wasm | 5  |
 | @pinkforest       | 💜 Yo 🦀 Binaries                        | 5  |
