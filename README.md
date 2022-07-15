@@ -4,9 +4,7 @@
 
 Rust Australia Virtual Meetup and Kiwis welcome too and any other who can bear the timezone difference
 
-This repository serves as virtual RSVP tracking and Call for Papers submissions
-
-[RustAU/Sydney](https://github.com/RustAU/Sydney) repository serves as RSVP in Sydney in person
+[RustAU/Sydney](https://github.com/RustAU/Sydney) repository serves as Sydney meetup tracking.
 
 Join us in [Discord](https://discord.gg/pW35BNSBeV)
 
