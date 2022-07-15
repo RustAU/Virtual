@@ -24,13 +24,14 @@ RSVP is not required for the virtual meetup - stream link will be posted here an
 | :---              | :---                            | :---   |
 | @ecton            | BonsaiDb                        | x      |
 | @Radu Matei       | Building a microservices platform with Rust, WebAssembly, and the component model | 10 |
-| Suborbital        | Suborbital                      | x      |
-| @Teymor Alridge   | puck                            | 7      |
+| @flaki            | Suborbital                               | x  |
+| @Teymor Alridge   | puck                                     | 7  |
 | @saethlin         | Searching for and fixing UB across all of crates.io | x |
-| @trent            | Taking an API from 0 to prod    | x      |
-| @wh33zle          | Elegant actor systems with xtra | 10     |
-| @pinkforest       | 💜 Yo 🦀 Binaries               | 5      |
-| @Bernard          | Writing Rust the Erlang way     | 15     |
+| @trent            | Taking an API from 0 to prod             | x  |
+| @wh33zle          | Elegant actor systems with xtra          | 10 |
+| @Tricster         | Running Tokyo async applications in Wasm | 5  |
+| @pinkforest       | 💜 Yo 🦀 Binaries                        | 5  |
+| @Bernard          | Writing Rust the Erlang way              | 15 |
 
 [discord-badge]: https://img.shields.io/discord/987700580866723880.svg?logo=discord
 [discord-url]: https://discord.gg/pW35BNSBeV
