@@ -16,7 +16,7 @@ Inaugural Rust Australia Virtual Lightning Meetup - Kiwi participation friendly 
 
 Anyone from anywhere is however welcome to participate as long as you can bear the timezone difference
 
-RSVP is not required for the virtual meetup - stream link will be posted here and [Discord](https://discord.gg/pW35BNSBeV)
+RSVP is not required for the virtual meetup - Stream @ https://rustau.org/
 
 ### Speakers 2022 Jul 19
 
